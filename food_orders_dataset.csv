@@ -1,0 +1,122 @@
+Order_ID,Customer_Age,Meal_Type,Order_Channel,Delivery_Time_Mins,Delivery_Fee,Order_Value,Customer_Rating,Order_Status
+ORD2001,21,Chinese,Partner,52.0,80.19,643.24,3.4,Issue / Refund
+ORD2002,50,South Indian,Partner,62.0,23.38,398.56,4.3,Delayed
+ORD2003,45,Chinese,App,60.0,23.2,873.03,4.7,Delayed
+ORD2004,36,Fast Food,App,23.0,21.14,525.81,4.2,Delivered On-Time
+ORD2005,36,Chinese,Web,,61.05,166.16,4.9,Delayed
+ORD2006,54,Chinese,Web,47.0,44.3,655.55,4.3,Issue / Refund
+ORD2007,21,Chinese,App,34.0,69.2,726.89,4.6,Delivered On-Time
+ORD2008,47,South Indian,App,46.0,61.99,408.76,2.3,Issue / Refund
+ORD2009,26,North Indian,Web,73.0,38.35,852.75,4.2,Delayed
+ORD2010,21,South Indian,App,67.0,77.89,844.19,3.3,Delayed
+ORD2011,40,North Indian,Partner,65.0,,1018.56,3.7,Delayed
+ORD2012,58,South Indian,App,43.0,33.94,949.37,4.0,Issue / Refund
+ORD2013,48,Fast Food,App,62.0,40.49,955.11,4.9,Delayed
+ORD2014,49,North Indian,Web,38.0,37.01,524.75,5.0,Delivered On-Time
+ORD2015,48,North Indian,App,56.0,26.03,1127.91,2.9,Delayed
+ORD2016,51,North Indian,App,54.0,25.34,822.9,4.2,Issue / Refund
+ORD2017,39,North Indian,App,30.0,80.53,672.22,4.2,Delivered On-Time
+ORD2018,23,Chinese,Partner,31.0,45.65,921.3,3.0,Issue / Refund
+ORD2019,53,Chinese,App,18.0,41.83,581.64,,Issue / Refund
+ORD2020,36,Fast Food,App,23.0,66.08,776.31,2.1,Issue / Refund
+ORD2021,39,Chinese,Web,41.0,53.71,1062.98,4.3,Issue / Refund
+ORD2022,33,South Indian,Partner,44.0,80.53,1254.6,3.5,Issue / Refund
+ORD2023,25,Fast Food,App,25.0,69.62,1298.95,5.0,Delivered On-Time
+ORD2024,56,North Indian,App,40.0,48.56,764.65,3.4,Issue / Refund
+ORD2025,50,North Indian,App,51.0,41.35,785.95,4.9,Issue / Refund
+ORD2026,45,North Indian,App,29.0,84.06,1143.83,3.2,Issue / Refund
+ORD2027,34,Fast Food,App,35.0,65.24,522.5,4.4,Delivered On-Time
+ORD2028,52,South Indian,Web,37.0,81.58,1191.85,2.3,Issue / Refund
+ORD2029,40,North Indian,App,45.0,23.29,752.5,3.7,Issue / Refund
+ORD2030,36,Chinese,App,37.0,74.54,268.3,4.4,Delivered On-Time
+ORD2031,36,North Indian,Web,59.0,59.6,212.24,4.8,Delayed
+ORD2032,27,Fast Food,App,34.0,23.53,1197.75,4.5,Delivered On-Time
+ORD2033,21,South Indian,App,41.0,56.18,191.13,2.1,Issue / Refund
+ORD2034,41,South Indian,Web,38.0,63.03,479.18,3.1,Issue / Refund
+ORD2035,55,South Indian,Web,26.0,15.86,547.69,2.1,Issue / Refund
+ORD2036,20,Chinese,Web,56.0,46.8,341.43,2.3,Delayed
+ORD2037,54,South Indian,App,29.0,72.78,521.78,4.0,Delivered On-Time
+ORD2038,52,North Indian,App,33.0,35.68,1070.65,4.1,Delivered On-Time
+ORD2039,29,North Indian,Partner,63.0,47.1,138.79,4.3,Delayed
+ORD2040,44,Beverages & Snacks,App,72.0,45.96,1178.78,4.6,Delayed
+ORD2041,24,Beverages & Snacks,App,55.0,36.13,1216.38,4.2,Issue / Refund
+ORD2042,49,Fast Food,App,70.0,79.29,596.49,4.4,Delayed
+ORD2043,47,North Indian,Web,67.0,69.69,316.62,2.1,Delayed
+ORD2044,32,Beverages & Snacks,Partner,44.0,22.74,889.08,2.7,Issue / Refund
+ORD2045,20,Fast Food,App,61.0,84.79,273.18,3.9,Delayed
+ORD2046,58,Fast Food,Partner,35.0,76.54,587.1,4.6,Delivered On-Time
+ORD2047,36,South Indian,App,43.0,34.87,1346.79,2.0,Issue / Refund
+ORD2048,55,North Indian,App,47.0,73.58,1394.19,3.5,Issue / Refund
+ORD2049,46,North Indian,App,73.0,22.45,1108.29,4.0,Delayed
+ORD2050,50,Beverages & Snacks,App,66.0,84.94,518.03,2.1,Delayed
+ORD2051,49,South Indian,App,44.0,61.6,1000.21,3.2,Issue / Refund
+ORD2052,26,North Indian,App,54.0,60.51,1022.92,4.7,Issue / Refund
+ORD2053,33,South Indian,Partner,27.0,21.33,616.44,4.0,Delivered On-Time
+ORD2054,37,Chinese,App,64.0,77.79,940.34,2.7,Delayed
+ORD2055,38,North Indian,Partner,48.0,17.03,133.73,4.6,Issue / Refund
+ORD2056,19,Fast Food,Web,47.0,31.86,387.59,3.0,Issue / Refund
+ORD2057,40,Fast Food,App,61.0,25.01,792.11,4.6,Delayed
+ORD2058,24,Fast Food,Web,53.0,69.37,329.6,2.9,Issue / Refund
+ORD2059,49,South Indian,App,19.0,28.87,332.36,3.8,Delivered On-Time
+ORD2060,46,Chinese,App,32.0,78.74,1190.47,3.2,Issue / Refund
+ORD2061,56,Chinese,Web,25.0,60.94,1386.09,2.8,Issue / Refund
+ORD2062,49,Chinese,Web,59.0,17.53,831.64,4.7,Delayed
+ORD2063,33,North Indian,App,17.0,15.38,1194.01,2.6,Issue / Refund
+ORD2064,58,South Indian,App,27.0,18.62,1387.61,2.3,Issue / Refund
+ORD2065,35,North Indian,App,51.0,57.41,301.24,3.0,Issue / Refund
+ORD2066,31,Chinese,Partner,57.0,71.1,693.75,4.2,Delayed
+ORD2067,56,South Indian,App,45.0,31.7,622.49,4.4,Issue / Refund
+ORD2068,33,North Indian,App,67.0,74.46,222.46,5.0,Delayed
+ORD2069,21,North Indian,App,71.0,19.01,1086.82,2.9,Delayed
+ORD2070,37,Chinese,App,23.0,71.07,675.24,3.2,Issue / Refund
+ORD2071,51,North Indian,Web,73.0,79.95,720.74,2.4,Delayed
+ORD2072,25,Beverages & Snacks,Partner,52.0,69.05,312.86,3.7,Issue / Refund
+ORD2073,37,Chinese,App,53.0,63.87,351.59,5.0,Issue / Refund
+ORD2074,23,South Indian,App,20.0,73.66,1281.09,4.1,Delivered On-Time
+ORD2075,46,Chinese,App,52.0,17.81,177.15,3.8,Issue / Refund
+ORD2076,37,North Indian,Web,59.0,29.12,418.05,3.2,Delayed
+ORD2077,31,Beverages & Snacks,Web,50.0,23.74,493.84,4.7,Issue / Refund
+ORD2078,27,Chinese,App,20.0,50.32,747.45,3.5,Issue / Refund
+ORD2079,41,Fast Food,App,46.0,67.16,870.65,2.4,Issue / Refund
+ORD2080,46,North Indian,App,72.0,59.1,751.41,3.1,Delayed
+ORD2081,57,Chinese,App,59.0,74.58,227.67,2.2,Delayed
+ORD2082,36,Chinese,Web,23.0,25.86,431.89,2.6,Issue / Refund
+ORD2083,24,Beverages & Snacks,App,73.0,66.42,1199.79,2.1,Delayed
+ORD2084,52,Chinese,App,73.0,28.51,936.11,3.4,Delayed
+ORD2085,44,South Indian,Partner,25.0,33.95,950.91,3.9,Delivered On-Time
+ORD2086,47,North Indian,App,63.0,64.69,977.86,3.0,Delayed
+ORD2087,22,South Indian,App,39.0,83.61,1096.52,3.3,Issue / Refund
+ORD2088,31,Chinese,App,51.0,57.81,194.38,4.9,Issue / Refund
+ORD2089,50,South Indian,App,42.0,18.82,589.26,4.3,Issue / Refund
+ORD2090,52,North Indian,App,62.0,58.14,810.6,3.6,Delayed
+ORD2091,36,Fast Food,App,75.0,17.96,553.22,2.9,Delayed
+ORD2092,51,Beverages & Snacks,App,63.0,76.89,1200.93,4.7,Delayed
+ORD2093,53,North Indian,App,71.0,64.67,737.69,2.7,Delayed
+ORD2094,34,Chinese,App,72.0,27.12,1103.84,3.0,Delayed
+ORD2095,55,North Indian,Web,20.0,21.42,1210.58,4.7,Delivered On-Time
+ORD2096,30,Chinese,App,30.0,27.85,766.13,3.6,Issue / Refund
+ORD2097,28,North Indian,App,59.0,83.6,1284.23,4.2,Delayed
+ORD2098,46,Chinese,App,50.0,47.1,871.52,3.8,Issue / Refund
+ORD2099,44,Fast Food,Partner,18.0,69.89,1208.35,4.0,Delivered On-Time
+ORD2100,23,Fast Food,Partner,20.0,59.55,555.96,2.9,Issue / Refund
+ORD2101,52,North Indian,App,46.0,55.07,758.49,2.7,Issue / Refund
+ORD2102,26,Beverages & Snacks,App,52.0,25.16,800.21,3.0,Issue / Refund
+ORD2103,51,North Indian,App,25.0,81.22,254.37,2.5,Issue / Refund
+ORD2104,18,North Indian,App,25.0,36.09,630.15,4.6,Delivered On-Time
+ORD2105,51,Chinese,App,22.0,55.46,1294.19,2.8,Issue / Refund
+ORD2106,51,South Indian,App,49.0,63.98,927.47,3.7,Issue / Refund
+ORD2107,50,Fast Food,App,15.0,60.45,347.21,4.4,Delivered On-Time
+ORD2108,45,Fast Food,App,49.0,80.84,553.74,4.4,Issue / Refund
+ORD2109,37,South Indian,App,44.0,25.39,365.25,3.3,Issue / Refund
+ORD2110,47,Beverages & Snacks,App,43.0,50.58,151.77,3.4,Issue / Refund
+ORD2111,29,North Indian,Web,56.0,43.28,1307.15,5.0,Delayed
+ORD2112,50,Chinese,App,46.0,48.19,693.71,4.0,Issue / Refund
+ORD2113,41,North Indian,Partner,59.0,23.35,513.64,4.4,Delayed
+ORD2114,37,Beverages & Snacks,App,61.0,24.39,886.05,4.7,Delayed
+ORD2115,39,North Indian,Web,71.0,34.47,129.36,4.4,Delayed
+ORD2116,41,North Indian,Partner,63.0,36.33,475.87,2.6,Delayed
+ORD2117,19,South Indian,Partner,46.0,44.95,1019.88,3.7,Issue / Refund
+ORD2118,23,Beverages & Snacks,Web,45.0,57.77,931.23,2.3,Issue / Refund
+ORD2119,28,Beverages & Snacks,Web,29.0,59.42,1376.71,4.0,Delivered On-Time
+ORD2120,22,Fast Food,App,51.0,43.83,914.06,4.9,Issue / Refund
+ORD2001,21,Chinese,Partner,52.0,80.19,643.24,3.4,Issue / Refund
